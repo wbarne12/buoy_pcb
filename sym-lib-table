@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "BQ25185DLHR")(type "KiCad")(uri "${KIPRJMOD}/Componets/sym/BQ25185DLHR.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61023DRLT")(type "KiCad")(uri "${KIPRJMOD}/Componets/sym/TPS61023DRLT.kicad_sym")(options "")(descr ""))
+  (lib (name "ULN2003ADR")(type "KiCad")(uri "${KIPRJMOD}/Componets/sym/ULN2003ADR.kicad_sym")(options "")(descr ""))
+  (lib (name "CAT16-471J4LF")(type "KiCad")(uri "${KIPRJMOD}/Componets/sym/CAT16-471J4LF.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4175-GF-0230-C")(type "KiCad")(uri "${KIPRJMOD}/Componets/sym/USB4175-GF-0230-C.kicad_sym")(options "")(descr ""))
+)
